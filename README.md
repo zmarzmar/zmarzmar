@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=0:DCE2F0,100:50586C&height=200&section=header&text=Hyuneun&fontSize=45&fontAlign=20&fontAlignY=36)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pretendard&weight=500&pause=1000&color=7F8BAA&random=false&width=435&lines=WELCOME+TO+HYUNEUN'S+GITHUB👻)](https://git.io/typing-svg)
+
 
 <h2>☁️ SKILL </h2>
 
@@ -21,10 +20,6 @@
 <br>
 
 <br>
-
-<h2>☁️ BOJ</h2>
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hangintheree)](https://solved.ac/profile/hangintheree) 
 
 <br>
 
