@@ -1,3 +1,13 @@
+<h2>☁️ GITHUB</h2>
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zmarzmar&show_icons=true" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zmarzmar&" alt="teddylee777" />
+</p>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zmarzmar&layout=compact&theme=vue"/>
+<br>
+
 <h2>☁️ SKILL </h2>
 
 ####  Language
@@ -13,12 +23,3 @@
 
 ####  ETC
 <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"></a> <img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
-<br>
-
-<br>
-
-<br>
-
-<h2>☁️ GITHUB</h2>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zmarzmar&layout=compact&theme=vue"/>
